@@ -10,7 +10,7 @@ public class TypeEffect : MonoBehaviour
     Text msgText;
     public GameObject EndCursor;
     AudioSource audioSource;
-    float interval;
+    float interval; 
     public bool isAnim;
     // Start is called before the first frame update
     void Awake()
